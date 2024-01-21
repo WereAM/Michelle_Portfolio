@@ -267,3 +267,16 @@ span{
     margin-top: 2rem;
     cursor: pointer;
 }
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2 rem 10%;
+    background: var(--second-bg-color);
+    height: 5vh;
+}
+
+.footer-info{
+    font-size: 12px;
+}
