@@ -7,3 +7,6 @@ This project was built to create an online portfolio accessible via web. It incl
 * A Home page with the developer's profile and a short description
 * A Projects page highlighting the developer's recent projects
 * A Connect page where a user can connect with the developer
+
+This project has been deployed via Github pages and is now live at:
+-- https://weream.github.io/Michelle_Portfolio/
